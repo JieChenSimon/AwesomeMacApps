@@ -1,42 +1,55 @@
 # AwesomeMacSoftware
+[中文](README.md) | [English](README_EN.md)
 
-A curated list of open-source and fantastic Mac applications that I personally use and recommend. This repository aims to share valuable software discoveries with the Mac community.
+A curated list of open-source Mac applications. Rating standard: ⭐️⭐️⭐️⭐️⭐️ Must-Have | ⭐️⭐️⭐️⭐️ Highly Recommended | ⭐️⭐️⭐️ Excellent | ⭐️⭐️ Good Alternative | ⭐️ Usable
 
-## Focus
+## Development Tools
 
-- Open-source software primarily
-- Personal recommendations based on actual usage
-- Quality over quantity
-- Regular updates as new software is discovered
+| Name | Description | Rating | Source |
+|------|-------------|--------|--------|
+| Visual Studio Code | Powerful code editor with rich extensions | ⭐️⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/microsoft/vscode) |
+| iTerm2 | Best terminal emulator for macOS | ⭐️⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/gnachman/iTerm2) |
+| TablePlus | Database management tool | ⭐️⭐️⭐️⭐️ | Closed source but free tier available |
+| Postman | API development and testing | ⭐️⭐️⭐️⭐️ | Closed source but free tier available |
 
-## Categories
+## Productivity Tools
 
-### Development Tools
-- [List development-related open source apps]
+| Name | Description | Rating | Source |
+|------|-------------|--------|--------|
+| Rectangle | Window management tool | ⭐️⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/rxhanson/Rectangle) |
+| CopyQ | Clipboard manager | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/hluk/CopyQ) |
+| Hidden Bar | Menu bar icon manager | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/dwarvesf/hidden) |
 
-### Productivity
-- [List productivity-focused open source apps]
+## System Utilities
 
-### Utilities
-- [List utility open source apps]
+| Name | Description | Rating | Source |
+|------|-------------|--------|--------|
+| Stats | System monitor tool | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/exelban/stats) |
+| MonitorControl | Display brightness control | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/MonitorControl/MonitorControl) |
+| eul | CPU/Memory/Network monitor | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/gao-sun/eul) |
 
-### Media
-- [List media-related open source apps]
+## Multimedia Tools
+
+| Name | Description | Rating | Source |
+|------|-------------|--------|--------|
+| IINA | Modern video player | ⭐️⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/iina/iina) |
+| HandBrake | Video transcoder | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/HandBrake/HandBrake) |
+| Kap | Screen recorder | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/wulkano/kap) |
 
 ## Contributing
 
 Feel free to suggest additions through issues or pull requests. Please:
 - Focus on open-source software
-- Include a brief description of why you recommend the software
-- Verify the software works on recent macOS versions
+- Include reasons for recommendation
+- Verify compatibility with recent macOS versions
 
 ## License
 
-This repository is licensed under [Choose a license]
+This repository is licensed under MIT License
 
 ## Disclaimer
 
-This is a personal collection based on my experience. All software recommendations are personal opinions.
+This is a personal collection based on experience. All recommendations are personal opinions.
 
 ---
 

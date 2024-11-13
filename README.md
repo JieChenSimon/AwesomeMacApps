@@ -1,32 +1,40 @@
-# 主README.md文件:
-
 # AwesomeMacSoftware
 [中文](README.md) | [English](README_EN.md)
 
-精选的 Mac 开源软件推荐清单，分享我日常使用和发现的优质软件。
+精选的 Mac 开源软件推荐清单，分享我日常使用和发现的优质软件。评分标准：⭐️⭐️⭐️⭐️⭐️ 必装神器 | ⭐️⭐️⭐️⭐️ 强烈推荐 | ⭐️⭐️⭐️ 同类出色 | ⭐️⭐️ 备选推荐 | ⭐️ 一般可用
 
-## 项目特点
+## 开发工具
 
-- 主要收录开源软件
-- 基于个人实际使用体验推荐
-- 注重软件质量，而非数量
-- 持续更新个人发现的优质软件
+| 名称 | 说明 | 推荐指数 | 开源地址 |
+|-----|------|---------|----------|
+| Visual Studio Code | 强大的代码编辑器，扩展丰富 | ⭐️⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/microsoft/vscode) |
+| iTerm2 | 最好用的终端模拟器 | ⭐️⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/gnachman/iTerm2) |
+| TablePlus | 数据库管理工具 | ⭐️⭐️⭐️⭐️ | 闭源但免费版够用 |
+| Postman | API开发调试工具 | ⭐️⭐️⭐️⭐️ | 闭源但免费版够用 |
 
-## 软件分类
+## 效率工具
 
-### 开发工具
-- [开发相关开源软件列表]
+| 名称 | 说明 | 推荐指数 | 开源地址 |
+|-----|------|---------|----------|
+| Rectangle | 窗口管理工具 | ⭐️⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/rxhanson/Rectangle) |
+| CopyQ | 剪贴板管理工具 | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/hluk/CopyQ) |
+| Hidden Bar | 菜单栏图标管理 | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/dwarvesf/hidden) |
 
-### 效率工具
-- [提升效率的开源软件列表]
+## 系统工具
 
-### 系统工具
-- [系统工具类开源软件列表]
+| 名称 | 说明 | 推荐指数 | 开源地址 |
+|-----|------|---------|----------|
+| Stats | 系统监控工具 | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/exelban/stats) |
+| MonitorControl | 显示器亮度控制 | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/MonitorControl/MonitorControl) |
+| eul | CPU内存网络监控 | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/gao-sun/eul) |
 
+## 多媒体工具
 
-### 多媒体工具
-- [媒体相关开源软件列表]
-- ICE
+| 名称 | 说明 | 推荐指数 | 开源地址 |
+|-----|------|---------|----------|
+| IINA | 现代视频播放器 | ⭐️⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/iina/iina) |
+| HandBrake | 视频转码工具 | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/HandBrake/HandBrake) |
+| Kap | 屏幕录制工具 | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/wulkano/kap) |
 
 ## 参与贡献
 
@@ -37,7 +45,7 @@
 
 ## 许可证
 
-本项目采用 [选择一个许可证] 许可证
+本项目采用 MIT 许可证
 
 ## 免责声明
 
