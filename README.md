@@ -30,6 +30,7 @@
 | 名称 | 说明 | 推荐指数 | 开源地址 |
 |-----|------|---------|----------|
 | ICE |菜单栏管理器|⭐️⭐️⭐️⭐️⭐️ |[Github](https://github.com/jordanbaird/Ice)
+|PearCleaner| mac app cleaner|⭐️⭐️⭐️⭐️ | [Github](https://github.com/alienator88/Pearcleaner)
 | Stats | 系统监控工具 | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/exelban/stats) |
 | MonitorControl | 显示器亮度控制 | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/MonitorControl/MonitorControl) |
 | eul | CPU内存网络监控 | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/gao-sun/eul) |
@@ -41,6 +42,11 @@
 | IINA | 现代视频播放器 | ⭐️⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/iina/iina) |
 | HandBrake | 视频转码工具 | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/HandBrake/HandBrake) |
 | Kap | 屏幕录制工具 | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/wulkano/kap) |
+
+
+## 致敬开源
+
+感谢所有开源软件作者和贡献者们！
 
 ## 参与贡献
 

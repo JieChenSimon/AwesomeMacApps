@@ -28,6 +28,11 @@ A curated list of open-source Mac applications. Rating standard: ⭐️⭐️⭐
 | MonitorControl | Display brightness control | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/MonitorControl/MonitorControl) |
 | eul | CPU/Memory/Network monitor | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/gao-sun/eul) |
 
+
+## Tribute to Open Source
+
+Our deepest gratitude to all open-source software authors and contributors! 
+
 ## Multimedia Tools
 
 | Name | Description | Rating | Source |
