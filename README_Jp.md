@@ -28,6 +28,7 @@
 
 | 名前 | 説明 | 評価 | ソース |
 |------|-------------|--------|------------|
+| Battery | 電源管理ソフトウェア | ⭐️⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/actuallymentor/battery) |
 | PearCleaner | アプリアンインストーラー | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/alienator88/Pearcleaner) |
 | Windowkeys | ウィンドウのキーボードショートカット | ⭐️⭐️⭐️⭐️ | [Apptorium](https://www.apptorium.com/windowkeys) |
 | Stats | システムモニタリング | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/exelban/stats) |

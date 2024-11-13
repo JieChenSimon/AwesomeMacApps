@@ -28,6 +28,7 @@ Una lista curada de aplicaciones Mac de código abierto. Criterio de calificaci�
 
 | Nombre | Descripción | Calificación | Fuente |
 |------|-------------|--------|------------|
+| Battery | Software de Gestión de Energía | ⭐️⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/actuallymentor/battery) |
 | PearCleaner | Desinstalador de aplicaciones | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/alienator88/Pearcleaner) |
 | Windowkeys | Atajos de teclado para ventanas | ⭐️⭐️⭐️⭐️ | [Apptorium](https://www.apptorium.com/windowkeys) |
 | Stats | Monitoreo del sistema | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/exelban/stats) |

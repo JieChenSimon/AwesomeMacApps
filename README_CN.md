@@ -28,6 +28,7 @@
 
 | 名称 | 描述 | 评分 | 来源 |
 |------|-------------|--------|------------|
+| Battery | 电源管理软件 | ⭐️⭐️⭐️⭐️⭐️| [GitHub](https://github.com/actuallymentor/battery) |
 | PearCleaner | 应用卸载工具 | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/alienator88/Pearcleaner) |
 | Windowkeys | 窗口快捷键工具 | ⭐️⭐️⭐️⭐️ | [Apptorium](https://www.apptorium.com/windowkeys) |
 | Stats | 系统监控工具 | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/exelban/stats) |

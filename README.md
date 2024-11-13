@@ -29,6 +29,7 @@ A curated list of open-source Mac applications. Rating standard: ⭐️⭐️⭐
 
 | Name | Description | Rating | Repository |
 |------|-------------|--------|------------|
+| Battery | Power Management Software | ⭐️⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/actuallymentor/battery) |
 | PearCleaner | App uninstaller | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/alienator88/Pearcleaner) |
 | Windowkeys | Window keyboard shortcuts | ⭐️⭐️⭐️⭐️ | [Apptorium](https://www.apptorium.com/windowkeys) |
 | Stats | System monitoring | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/exelban/stats) |
