@@ -1,69 +1,64 @@
 # AwesomeMacApps
+[English](README.md) | [中文](README_CN.md)
 
-[中文](README.md) | [English](README_En.md)
+A curated list of open-source Mac applications. Rating standard: ⭐️⭐️⭐️⭐️⭐️ Must-Have | ⭐️⭐️⭐️⭐️ Highly Recommended | ⭐️⭐️⭐️ Excellent | ⭐️⭐️ Good Alternative | ⭐️ Usable
 
-精选的 Mac 开源软件推荐清单，分享我日常使用和发现的优质软件。评分标准：⭐️⭐️⭐️⭐️⭐️ 必装神器 | ⭐️⭐️⭐️⭐️ 强烈推荐 | ⭐️⭐️⭐️ 同类出色 | ⭐️⭐️ 备选推荐 | ⭐️ 一般可用
+## Development Tools
 
-> 📢 持续更新中... 最后更新时间: 2024-01-11
-> 
-> 💡 如有优质开源软件推荐，欢迎提 Issue 或 PR
+| Name | Description | Rating | Source |
+|------|-------------|--------|--------|
+| Visual Studio Code | Powerful code editor with rich extensions | ⭐️⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/microsoft/vscode) |
+| iTerm2 | Best terminal emulator for macOS | ⭐️⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/gnachman/iTerm2) |
+| TablePlus | Database management tool | ⭐️⭐️⭐️⭐️ | Closed source but free tier available |
+| Postman | API development and testing | ⭐️⭐️⭐️⭐️ | Closed source but free tier available |
 
-## 开发工具
+## Productivity Tools
 
-| 名称 | 说明 | 推荐指数 | 开源地址 |
-|-----|------|---------|----------|
-| Visual Studio Code | 强大的代码编辑器，扩展丰富 | ⭐️⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/microsoft/vscode) |
-| iTerm2 | 最好用的终端模拟器 | ⭐️⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/gnachman/iTerm2) |
-| TablePlus | 数据库管理工具 | ⭐️⭐️⭐️⭐️ | 闭源但免费版够用 |
-| Postman | API开发调试工具 | ⭐️⭐️⭐️⭐️ | 闭源但免费版够用 |
+| Name | Description | Rating | Source |
+|------|-------------|--------|--------|
+| Rectangle | Window management tool | ⭐️⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/rxhanson/Rectangle) |
+| CopyQ | Clipboard manager | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/hluk/CopyQ) |
+| Hidden Bar | Menu bar icon manager | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/dwarvesf/hidden) |
+| ICE | Menu bar manager | ⭐️⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/jordanbaird/Ice) |
 
-## 效率工具
+## System Utilities
 
-| 名称 | 说明 | 推荐指数 | 开源地址 |
-|-----|------|---------|----------|
-| Rectangle | 窗口管理工具 | ⭐️⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/rxhanson/Rectangle) |
-| CopyQ | 剪贴板管理工具 | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/hluk/CopyQ) |
-| Hidden Bar | 菜单栏图标管理 | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/dwarvesf/hidden) |
-| ICE |菜单栏管理器|⭐️⭐️⭐️⭐️⭐️ |[Github](https://github.com/jordanbaird/Ice)
-
-## 系统工具
-
-| 名称 | 说明 | 推荐指数 | 开源地址 |
-|-----|------|---------|----------|
-|PearCleaner| mac app cleaner|⭐️⭐️⭐️⭐️ | [Github](https://github.com/alienator88/Pearcleaner)
-|Windowkeys|窗口键盘快捷健|⭐️⭐️⭐️⭐️ | [Github](https://www.apptorium.com/windowkeys)
-| Stats | 系统监控工具 | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/exelban/stats) |
-| MonitorControl | 显示器亮度控制 | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/MonitorControl/MonitorControl) |
-| eul | CPU内存网络监控 | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/gao-sun/eul) |
-
-## 多媒体工具
-
-| 名称 | 说明 | 推荐指数 | 开源地址 |
-|-----|------|---------|----------|
-| IINA | 现代视频播放器 | ⭐️⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/iina/iina) |
-| HandBrake | 视频转码工具 | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/HandBrake/HandBrake) |
-| Kap | 屏幕录制工具 | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/wulkano/kap) |
+| Name | Description | Rating | Repository |
+|------|-------------|--------|------------|
+| PearCleaner | App uninstaller | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/alienator88/Pearcleaner) |
+| Windowkeys | Window keyboard shortcuts | ⭐️⭐️⭐️⭐️ | [Website](https://www.apptorium.com/windowkeys) |
+| Stats | System monitoring | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/exelban/stats) |
+| MonitorControl | Display brightness control | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/MonitorControl/MonitorControl) |
+| eul | System resource monitor | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/gao-sun/eul) |
 
 
-## 致敬开源
+## Tribute to Open Source
 
-感谢所有开源软件作者和贡献者们！
+**_Our deepest gratitude to all open-source software authors and contributors!_**
 
-## 参与贡献
+## Multimedia Tools
 
-欢迎通过 Issues 或 Pull Requests 提出建议。请注意：
-- 优先考虑开源软件
-- 请附上推荐理由
-- 确保软件在最新版 macOS 上可用
+| Name | Description | Rating | Source |
+|------|-------------|--------|--------|
+| IINA | Modern video player | ⭐️⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/iina/iina) |
+| HandBrake | Video transcoder | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/HandBrake/HandBrake) |
+| Kap | Screen recorder | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/wulkano/kap) |
 
-## 许可证
+## Contributing
 
-本项目采用 MIT 许可证
+Feel free to suggest additions through issues or pull requests. Please:
+- Focus on open-source software
+- Include reasons for recommendation
+- Verify compatibility with recent macOS versions
 
-## 免责声明
+## License
 
-这是一个基于个人经验的收藏列表，所有软件推荐均代表个人观点。
+This repository is licensed under MIT License
+
+## Disclaimer
+
+This is a personal collection based on experience. All recommendations are personal opinions.
 
 ---
 
-⭐️ 如果觉得有用，欢迎点个星！
+⭐️ If you find this useful, please star the repository!
