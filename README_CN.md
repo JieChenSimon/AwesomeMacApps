@@ -1,64 +1,62 @@
 # AwesomeMacApps
-[中文](README.md) | [English](README_En.md)
 
-A curated list of open-source Mac applications. Rating standard: ⭐️⭐️⭐️⭐️⭐️ Must-Have | ⭐️⭐️⭐️⭐️ Highly Recommended | ⭐️⭐️⭐️ Excellent | ⭐️⭐️ Good Alternative | ⭐️ Usable
+精选开源Mac应用列表。评分标准: ⭐️⭐️⭐️⭐️⭐️ 必备 | ⭐️⭐️⭐️⭐️ 强烈推荐 | ⭐️⭐️⭐️ 优秀 | ⭐️⭐️ 不错的替代品 | ⭐️ 可用
 
-## Development Tools
+## 开发工具
 
-| Name | Description | Rating | Source |
+| 名称 | 描述 | 评分 | 来源 |
 |------|-------------|--------|--------|
-| Visual Studio Code | Powerful code editor with rich extensions | ⭐️⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/microsoft/vscode) |
-| iTerm2 | Best terminal emulator for macOS | ⭐️⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/gnachman/iTerm2) |
-| TablePlus | Database management tool | ⭐️⭐️⭐️⭐️ | Closed source but free tier available |
-| Postman | API development and testing | ⭐️⭐️⭐️⭐️ | Closed source but free tier available |
+| Visual Studio Code | 功能强大的代码编辑器，拥有丰富的扩展 | ⭐️⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/microsoft/vscode) |
+| iTerm2 | macOS最佳终端模拟器 | ⭐️⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/gnachman/iTerm2) |
+| TablePlus | 数据库管理工具 | ⭐️⭐️⭐️⭐️ | 闭源但提供免费版本 |
+| Postman | API开发和测试工具 | ⭐️⭐️⭐️⭐️ | 闭源但提供免费版本 |
 
-## Productivity Tools
+## 效率工具
 
-| Name | Description | Rating | Source |
+| 名称 | 描述 | 评分 | 来源 |
 |------|-------------|--------|--------|
-| Rectangle | Window management tool | ⭐️⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/rxhanson/Rectangle) |
-| CopyQ | Clipboard manager | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/hluk/CopyQ) |
-| Hidden Bar | Menu bar icon manager | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/dwarvesf/hidden) |
-| ICE | Menu bar manager | ⭐️⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/jordanbaird/Ice) |
+| Rectangle | 窗口管理工具 | ⭐️⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/rxhanson/Rectangle) |
+| CopyQ | 剪贴板管理器 | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/hluk/CopyQ) |
+| Hidden Bar | 菜单栏图标管理器 | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/dwarvesf/hidden) |
+| ICE | 菜单栏管理器 | ⭐️⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/jordanbaird/Ice) |
 
-## System Utilities
+## 系统工具
 
-| Name | Description | Rating | Repository |
+| 名称 | 描述 | 评分 | 来源 |
 |------|-------------|--------|------------|
-| PearCleaner | App uninstaller | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/alienator88/Pearcleaner) |
-| Windowkeys | Window keyboard shortcuts | ⭐️⭐️⭐️⭐️ | [Website](https://www.apptorium.com/windowkeys) |
-| Stats | System monitoring | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/exelban/stats) |
-| MonitorControl | Display brightness control | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/MonitorControl/MonitorControl) |
-| eul | System resource monitor | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/gao-sun/eul) |
+| PearCleaner | 应用卸载工具 | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/alienator88/Pearcleaner) |
+| Windowkeys | 窗口快捷键工具 | ⭐️⭐️⭐️⭐️ | [网站](https://www.apptorium.com/windowkeys) |
+| Stats | 系统监控工具 | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/exelban/stats) |
+| MonitorControl | 显示器亮度控制 | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/MonitorControl/MonitorControl) |
+| eul | 系统资源监控 | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/gao-sun/eul) |
 
+## 向开源致敬
 
-## Tribute to Open Source
+**_衷心感谢所有开源软件作者和贡献者！_**
 
-**_Our deepest gratitude to all open-source software authors and contributors!_**
+## 多媒体工具
 
-## Multimedia Tools
-
-| Name | Description | Rating | Source |
+| 名称 | 描述 | 评分 | 来源 |
 |------|-------------|--------|--------|
-| IINA | Modern video player | ⭐️⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/iina/iina) |
-| HandBrake | Video transcoder | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/HandBrake/HandBrake) |
-| Kap | Screen recorder | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/wulkano/kap) |
+| IINA | 现代视频播放器 | ⭐️⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/iina/iina) |
+| HandBrake | 视频转码工具 | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/HandBrake/HandBrake) |
+| Kap | 屏幕录制工具 | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/wulkano/kap) |
 
-## Contributing
+## 贡献
 
-Feel free to suggest additions through issues or pull requests. Please:
-- Focus on open-source software
-- Include reasons for recommendation
-- Verify compatibility with recent macOS versions
+欢迎通过问题和拉取请求提出建议。请注意：
+- 关注开源软件
+- 包含推荐理由
+- 验证与最新macOS版本的兼容性
 
-## License
+## 许可证
 
-This repository is licensed under MIT License
+本仓库采用MIT许可证
 
-## Disclaimer
+## 免责声明
 
-This is a personal collection based on experience. All recommendations are personal opinions.
+这是基于个人经验的收藏。所有推荐均为个人观点。
 
 ---
 
-⭐️ If you find this useful, please star the repository!
+⭐️ 如果觉得有用，请给仓库点个星！
