@@ -24,12 +24,12 @@
 | Rectangle | 窗口管理工具 | ⭐️⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/rxhanson/Rectangle) |
 | CopyQ | 剪贴板管理工具 | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/hluk/CopyQ) |
 | Hidden Bar | 菜单栏图标管理 | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/dwarvesf/hidden) |
+| ICE |菜单栏管理器|⭐️⭐️⭐️⭐️⭐️ |[Github](https://github.com/jordanbaird/Ice)
 
 ## 系统工具
 
 | 名称 | 说明 | 推荐指数 | 开源地址 |
 |-----|------|---------|----------|
-| ICE |菜单栏管理器|⭐️⭐️⭐️⭐️⭐️ |[Github](https://github.com/jordanbaird/Ice)
 |PearCleaner| mac app cleaner|⭐️⭐️⭐️⭐️ | [Github](https://github.com/alienator88/Pearcleaner)
 |Windowkeys|窗口键盘快捷健|⭐️⭐️⭐️⭐️ | [Github](https://www.apptorium.com/windowkeys)
 | Stats | 系统监控工具 | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/exelban/stats) |
