@@ -29,6 +29,7 @@
 
 | 名称 | 说明 | 推荐指数 | 开源地址 |
 |-----|------|---------|----------|
+| ICE |菜单栏管理器|⭐️⭐️⭐️⭐️⭐️ |[Github](https://github.com/jordanbaird/Ice)
 | Stats | 系统监控工具 | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/exelban/stats) |
 | MonitorControl | 显示器亮度控制 | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/MonitorControl/MonitorControl) |
 | eul | CPU内存网络监控 | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/gao-sun/eul) |
