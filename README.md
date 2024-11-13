@@ -30,7 +30,7 @@ A curated list of open-source Mac applications. Rating standard: ⭐️⭐️⭐
 | Name | Description | Rating | Repository |
 |------|-------------|--------|------------|
 | PearCleaner | App uninstaller | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/alienator88/Pearcleaner) |
-| Windowkeys | Window keyboard shortcuts | ⭐️⭐️⭐️⭐️ | [Website](https://www.apptorium.com/windowkeys) |
+| Windowkeys | Window keyboard shortcuts | ⭐️⭐️⭐️⭐️ | [Apptorium](https://www.apptorium.com/windowkeys) |
 | Stats | System monitoring | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/exelban/stats) |
 | MonitorControl | Display brightness control | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/MonitorControl/MonitorControl) |
 | eul | System resource monitor | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/gao-sun/eul) |

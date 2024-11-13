@@ -29,7 +29,7 @@
 | 名前 | 説明 | 評価 | ソース |
 |------|-------------|--------|------------|
 | PearCleaner | アプリアンインストーラー | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/alienator88/Pearcleaner) |
-| Windowkeys | ウィンドウのキーボードショートカット | ⭐️⭐️⭐️⭐️ | [ウェブサイト](https://www.apptorium.com/windowkeys) |
+| Windowkeys | ウィンドウのキーボードショートカット | ⭐️⭐️⭐️⭐️ | [Apptorium](https://www.apptorium.com/windowkeys) |
 | Stats | システムモニタリング | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/exelban/stats) |
 | MonitorControl | ディスプレイの明るさ制御 | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/MonitorControl/MonitorControl) |
 | eul | システムリソースモニター | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/gao-sun/eul) |

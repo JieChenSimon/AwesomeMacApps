@@ -29,7 +29,7 @@
 | 名称 | 描述 | 评分 | 来源 |
 |------|-------------|--------|------------|
 | PearCleaner | 应用卸载工具 | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/alienator88/Pearcleaner) |
-| Windowkeys | 窗口快捷键工具 | ⭐️⭐️⭐️⭐️ | [网站](https://www.apptorium.com/windowkeys) |
+| Windowkeys | 窗口快捷键工具 | ⭐️⭐️⭐️⭐️ | [Apptorium](https://www.apptorium.com/windowkeys) |
 | Stats | 系统监控工具 | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/exelban/stats) |
 | MonitorControl | 显示器亮度控制 | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/MonitorControl/MonitorControl) |
 | eul | 系统资源监控 | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/gao-sun/eul) |
