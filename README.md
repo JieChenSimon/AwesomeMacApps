@@ -31,7 +31,7 @@
 |-----|------|---------|----------|
 | ICE |菜单栏管理器|⭐️⭐️⭐️⭐️⭐️ |[Github](https://github.com/jordanbaird/Ice)
 |PearCleaner| mac app cleaner|⭐️⭐️⭐️⭐️ | [Github](https://github.com/alienator88/Pearcleaner)
-|Windowkeys|窗口键盘快捷健|⭐️⭐️⭐️⭐️ | [Github](https://www.apptorium.com/windowkeys)
+|Windowkeys|窗口键盘快捷健|⭐️⭐️⭐️⭐️⭐️ | [Github](https://www.apptorium.com/windowkeys)
 | Stats | 系统监控工具 | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/exelban/stats) |
 | MonitorControl | 显示器亮度控制 | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/MonitorControl/MonitorControl) |
 | eul | CPU内存网络监控 | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/gao-sun/eul) |
