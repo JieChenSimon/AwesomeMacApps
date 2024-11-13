@@ -1,6 +1,10 @@
 # AwesomeMacApps
 [English](README.md) | [中文](README_CN.md) | [Español](README_Es.md)  | [日本語](README_Jp.md)
 
+>📢 Last updated: January 11, 2024 
+>
+>💡 Suggestions welcome via Issues or PRs
+
 A curated list of open-source Mac applications. Rating standard: ⭐️⭐️⭐️⭐️⭐️ Must-Have | ⭐️⭐️⭐️⭐️ Highly Recommended | ⭐️⭐️⭐️ Excellent | ⭐️⭐️ Good Alternative | ⭐️ Usable
 
 ## Development Tools
