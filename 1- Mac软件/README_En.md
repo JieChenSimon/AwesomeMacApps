@@ -1,5 +1,5 @@
-# AwesomeMacSoftware
-[中文](README.md) | [English](README_EN.md)
+# AwesomeMacApps
+[中文](README.md) | [English](README_En.md)
 
 A curated list of open-source Mac applications. Rating standard: ⭐️⭐️⭐️⭐️⭐️ Must-Have | ⭐️⭐️⭐️⭐️ Highly Recommended | ⭐️⭐️⭐️ Excellent | ⭐️⭐️ Good Alternative | ⭐️ Usable
 

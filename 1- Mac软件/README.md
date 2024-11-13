@@ -1,6 +1,6 @@
-# AwesomeMacSoftware
+# AwesomeMacApps
 
-[中文](README.md) | [English](README_EN.md)
+[中文](README.md) | [English](README_En.md)
 
 精选的 Mac 开源软件推荐清单，分享我日常使用和发现的优质软件。评分标准：⭐️⭐️⭐️⭐️⭐️ 必装神器 | ⭐️⭐️⭐️⭐️ 强烈推荐 | ⭐️⭐️⭐️ 同类出色 | ⭐️⭐️ 备选推荐 | ⭐️ 一般可用
 
