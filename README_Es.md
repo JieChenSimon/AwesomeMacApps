@@ -1,4 +1,5 @@
 # AwesomeMacApps
+[English](README.md) | [中文](README_CN.md) | [Español](README_Es.md)  | [日本語](README_Jp.md)
 
 Una lista curada de aplicaciones Mac de código abierto. Criterio de calificación: ⭐️⭐️⭐️⭐️⭐️ Imprescindible | ⭐️⭐️⭐️⭐️ Muy Recomendado | ⭐️⭐️⭐️ Excelente | ⭐️⭐️ Buena Alternativa | ⭐️ Utilizable
 

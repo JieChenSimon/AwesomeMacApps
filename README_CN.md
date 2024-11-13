@@ -1,4 +1,5 @@
 # AwesomeMacApps
+[English](README.md) | [中文](README_CN.md) | [Español](README_Es.md)  | [日本語](README_Jp.md)
 
 精选开源Mac应用列表。评分标准: ⭐️⭐️⭐️⭐️⭐️ 必备 | ⭐️⭐️⭐️⭐️ 强烈推荐 | ⭐️⭐️⭐️ 优秀 | ⭐️⭐️ 不错的替代品 | ⭐️ 可用
 

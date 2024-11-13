@@ -1,4 +1,5 @@
 # AwesomeMacApps
+[English](README.md) | [中文](README_CN.md) | [Español](README_Es.md)  | [日本語](README_Jp.md)
 
 厳選されたオープンソースMacアプリケーションのリスト。評価基準: ⭐️⭐️⭐️⭐️⭐️ 必須 | ⭐️⭐️⭐️⭐️ 強く推奨 | ⭐️⭐️⭐️ 優秀 | ⭐️⭐️ 良い代替品 | ⭐️ 使用可能
 
