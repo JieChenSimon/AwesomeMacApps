@@ -22,16 +22,19 @@ A curated list of open-source Mac applications. Rating standard: ⭐️⭐️⭐
 
 ## System Utilities
 
-| Name | Description | Rating | Source |
-|------|-------------|--------|--------|
-| Stats | System monitor tool | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/exelban/stats) |
+| Name | Description | Rating | Repository |
+|------|-------------|--------|------------|
+| ICE | Menu bar manager | ⭐️⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/jordanbaird/Ice) |
+| PearCleaner | App uninstaller | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/alienator88/Pearcleaner) |
+| Windowkeys | Window keyboard shortcuts | ⭐️⭐️⭐️⭐️ | [Website](https://www.apptorium.com/windowkeys) |
+| Stats | System monitoring | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/exelban/stats) |
 | MonitorControl | Display brightness control | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/MonitorControl/MonitorControl) |
-| eul | CPU/Memory/Network monitor | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/gao-sun/eul) |
+| eul | System resource monitor | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/gao-sun/eul) |
 
 
 ## Tribute to Open Source
 
-Our deepest gratitude to all open-source software authors and contributors! 
+**_Our deepest gratitude to all open-source software authors and contributors!_**
 
 ## Multimedia Tools
 
