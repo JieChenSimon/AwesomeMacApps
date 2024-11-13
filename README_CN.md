@@ -19,7 +19,7 @@
 
 | 名称 | 描述 | 评分 | 来源 |
 |------|-------------|--------|--------|
-| Rectangle | 窗口管理工具 | ⭐️⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/rxhanson/Rectangle) |
+| Rectangle | 窗口管理工具(Not Needed after Sequoia 15.1)  | ⭐️⭐️⭐️ | [GitHub](https://github.com/rxhanson/Rectangle) |
 | CopyQ | 剪贴板管理器 | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/hluk/CopyQ) |
 | Hidden Bar | 菜单栏图标管理器 | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/dwarvesf/hidden) |
 | ICE | 菜单栏管理器 | ⭐️⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/jordanbaird/Ice) |

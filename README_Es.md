@@ -19,7 +19,7 @@ Una lista curada de aplicaciones Mac de código abierto. Criterio de calificaci�
 
 | Nombre | Descripción | Calificación | Fuente |
 |------|-------------|--------|--------|
-| Rectangle | Gestor de ventanas | ⭐️⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/rxhanson/Rectangle) |
+| Rectangle | Gestor de ventanas (Not Needed after Sequoia 15.1)  | ⭐️⭐️⭐️| [GitHub](https://github.com/rxhanson/Rectangle) |
 | CopyQ | Gestor del portapapeles | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/hluk/CopyQ) |
 | Hidden Bar | Gestor de íconos de la barra de menú | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/dwarvesf/hidden) |
 | ICE | Gestor de la barra de menú | ⭐️⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/jordanbaird/Ice) |

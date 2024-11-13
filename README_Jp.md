@@ -19,7 +19,7 @@
 
 | 名前 | 説明 | 評価 | ソース |
 |------|-------------|--------|--------|
-| Rectangle | ウィンドウ管理ツール | ⭐️⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/rxhanson/Rectangle) |
+| Rectangle | ウィンドウ管理ツール (Not Needed after Sequoia 15.1)  | ⭐️⭐️⭐️| [GitHub](https://github.com/rxhanson/Rectangle) |
 | CopyQ | クリップボードマネージャー | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/hluk/CopyQ) |
 | Hidden Bar | メニューバーアイコン管理 | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/dwarvesf/hidden) |
 | ICE | メニューバーマネージャー | ⭐️⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/jordanbaird/Ice) |
