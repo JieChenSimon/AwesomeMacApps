@@ -19,7 +19,7 @@ A curated list of open-source Mac applications. Rating standard: ⭐️⭐️⭐
 | Rectangle | Window management tool | ⭐️⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/rxhanson/Rectangle) |
 | CopyQ | Clipboard manager | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/hluk/CopyQ) |
 | Hidden Bar | Menu bar icon manager | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/dwarvesf/hidden) |
-| ICE | Menu bar manager | ⭐️⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/jordanbaird/Ice) |
+| ICE | Menu bar icon manager | ⭐️⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/jordanbaird/Ice) |
 
 ## System Utilities
 
