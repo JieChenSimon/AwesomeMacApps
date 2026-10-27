@@ -4,6 +4,8 @@
 >📢 Last updated: January 11, 2024 
 >
 >💡 Suggestions welcome via Issues or PRs
+>
+>🚫 No promotional PRs: self-promotion of paid/commercial products will be closed. See CONTRIBUTING.md
 
 A curated list of open-source Mac applications. Rating standard: ⭐️⭐️⭐️⭐️⭐️ Must-Have | ⭐️⭐️⭐️⭐️ Highly Recommended | ⭐️⭐️⭐️ Excellent | ⭐️⭐️ Good Alternative | ⭐️ Usable
 
