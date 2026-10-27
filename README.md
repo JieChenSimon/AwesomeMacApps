@@ -32,6 +32,7 @@ A curated list of open-source Mac applications. Rating standard: ⭐️⭐️⭐
 | Battery | Power Management Software | ⭐️⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/actuallymentor/battery) |
 | PearCleaner | App uninstaller | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/alienator88/Pearcleaner) |
 | Windowkeys | Window keyboard shortcuts | ⭐️⭐️⭐️⭐️ | [Apptorium](https://www.apptorium.com/windowkeys) |
+| Command Reopen | Makes Cmd+Tab restore minimized and closed windows with zero permissions | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/Feng6611/mac-command-reopen) |
 | Stats | System monitoring | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/exelban/stats) |
 | MonitorControl | Display brightness control | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/MonitorControl/MonitorControl) |
 | eul | System resource monitor | ⭐️⭐️⭐️⭐️ | [GitHub](https://github.com/gao-sun/eul) |
